@@ -48,3 +48,7 @@ main h3 {
 footer p {
     text-align: center; /* Center the text in the paragraph */
 }
+
+.shadow {
+    text-shadow: 2px 2px 4px #800000; /* Text shadow with dark red color */
+}
