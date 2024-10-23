@@ -17,10 +17,10 @@ header h2 {
 }
 
 header h3 {
-    font-size: 130%;
-    font-style: italic; 
+    font-size: 130%; 
     color: #800000;
-    text-indent: 30px;
+    font-style: italic;
+    text-indent: 30px;	
 }
 
 /* the styles for the main content */
